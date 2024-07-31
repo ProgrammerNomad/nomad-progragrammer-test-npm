@@ -13,6 +13,9 @@
   "keywords": [
     "test-npm"
   ],
+  "publishConfig": {
+    "@nomadprogrammer:registry": "https://npm.pkg.github.com"
+  },
   "author": "ProgrammerNomad",
   "license": "ISC",
   "bugs": {
