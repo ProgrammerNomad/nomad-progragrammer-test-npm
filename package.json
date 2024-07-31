@@ -1,25 +1,22 @@
 {
-  "name": "npm",
+  "name": "nomad-progragrammer-test-npm",
   "version": "1.0.0",
-  "description": "npm testing fine",
+  "description": "test npm",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProgrammerNomad/npm-test.git"
+    "url": "git+https://github.com/ProgrammerNomad/nomad-progragrammer-test-npm.git"
   },
   "keywords": [
     "test-npm"
   ],
-  "publishConfig": {
-    "@nomadprogrammer:registry": "https://npm.pkg.github.com"
-  },
-  "author": "ProgrammerNomad",
+  "author": "shiv singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ProgrammerNomad/npm-test/issues"
+    "url": "https://github.com/ProgrammerNomad/nomad-progragrammer-test-npm/issues"
   },
-  "homepage": "https://github.com/ProgrammerNomad/npm-test#readme"
+  "homepage": "https://github.com/ProgrammerNomad/nomad-progragrammer-test-npm#readme"
 }
